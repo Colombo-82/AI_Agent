@@ -7,9 +7,5 @@ wheels/
 *.egg-info
 
 # Virtual environments
-/.venv
-/env
-
-# Gemini Api Key
-.env
+.venv
 
